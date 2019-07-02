@@ -18,7 +18,7 @@ title: AquaBavaria
 subtitle: "Regional - Sustainable - Aquaponics"
 url: "http://aquabavaria.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/aquabavaria"
+#baseurl: "/aquabavaria"
 cover: "/img/fish_logo.png"
 logo: "/img/fish_logo.png"
 
